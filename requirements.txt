@@ -1,1 +1,5 @@
 streamlit
+requests
+pdfkit
+PyPDF2
+google-generativeai
